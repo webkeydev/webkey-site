@@ -394,7 +394,7 @@ line-height: 1.9;
 <h2 class="eut-element eut-title eut-align-inherit eut-h2" style=""><span><br>
 <h2 style="font-size: 17px; line-height: 28px; letter-spacing: normal;">Run your Android device<br />
 from your browser</h2>
-</span></h2><div class="eut-empty-space eut-height-1x" style=""></div><div class="eut-element eut-align-inherit eut-fluid-button"><a href="https://dashboard.webkeyapp.com/dashboard/registration" class="eut-btn eut-btn-medium eut-round eut-bg-primary-2 eut-bg-hover-black" style="max-width: 193px;"><span>Try Free</span></a></div><div class="eut-element eut-text">
+</span></h2><div class="eut-empty-space eut-height-1x" style=""></div><div class="eut-element eut-align-inherit eut-fluid-button"><a href="https://dashboard.webkeyapp.com/registration" class="eut-btn eut-btn-medium eut-round eut-bg-primary-2 eut-bg-hover-black" style="max-width: 193px;"><span>Try Free</span></a></div><div class="eut-element eut-text">
 			<p style="font-size: 12px;">No credit card required</p>
 
 		</div>

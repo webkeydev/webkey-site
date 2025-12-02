@@ -20,7 +20,7 @@
       <div class="features-table-container">
         <FeaturesComparisonTable />
         <div class="table-cta">
-          <a href="https://dashboard.webkeyapp.com/dashboard/registration" class="btn-try-free">
+          <a href="https://dashboard.webkeyapp.com/registration" class="btn-try-free">
             Try Free
           </a>
         </div>
