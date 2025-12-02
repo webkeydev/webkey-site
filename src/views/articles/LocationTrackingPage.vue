@@ -13,15 +13,15 @@
 
     <p>When pairing your device with your Webkey account, you have to make sure that the location data can be used by the Webkey app on your device. You should also allow Webkey to use your device's location data. This will be shown like this:</p>
 
-    <img src="https://www.webkeyapp.com/wp-content/uploads/2022/11/locationtrack1.png" alt="Location permission" style="max-width: 236px;" />
+    <img src="/images/articles/locationtrack1.png" alt="Location permission" style="max-width: 236px;" />
 
     <p>After this, Webkey is ready to locate your device on a map, track its path. This feature is directly available from your dashboard (https://www.webkeyapp.com/dashboard/devices), by simply clicking on the location icon on the top:</p>
 
-    <img src="https://www.webkeyapp.com/wp-content/uploads/2022/11/locationtrack2.png" alt="Location tracking dashboard" />
+    <img src="/images/articles/locationtrack2.png" alt="Location tracking dashboard" />
 
     <p>After clicking on location tracking, your dashboard view will change to a map view. Here Webkey will give you the option to track your device on a map or get a view of their path drawn on a map. The data output for both of these features depends on the settings, so it is worth having a look at these in advance.</p>
 
-    <img src="https://www.webkeyapp.com/wp-content/uploads/2022/11/locationtrack3.png" alt="Location tracking settings" />
+    <img src="/images/articles/locationtrack3.png" alt="Location tracking settings" />
 
     <p>When you open up your settings, you should see the above panel. The different color-coded arrows stand for the following settings:</p>
 
@@ -33,13 +33,13 @@
 
     <p>It is important to note here that the above settings can affect the battery life significantly; it is worth using the settings best suited for the data you would like to have, but with having battery life in mind at the same time.</p>
 
-    <img src="https://www.webkeyapp.com/wp-content/uploads/2022/11/locationtrack4-1.png" alt="Device tracking interface" />
+    <img src="/images/articles/locationtrack4-1.png" alt="Device tracking interface" />
 
     <p>When you are done with setting up the details for this feature, you should click "tracking" on the left-hand side of the screen (red circle shown above). Here, you can select the device you would like to track on the map. If you have multiple devices, you may select them to be shown and, if you have grouped your devices, the groups will appear here as well. You may select the devices from a group individually or the group as a whole, or different devices from different groups.</p>
 
     <p>After you select your device, Webkey will automatically locate it and show it on the map (the green circle above). The pin on the map will be named after the name you have set for the given device: if you have multiple devices, they may be shown at the same time. The tab associated with the device will show the last saved GPS data and the date and time this was recorded.</p>
 
-    <img src="https://www.webkeyapp.com/wp-content/uploads/2022/11/locationtrack5.png" alt="Path tracking" />
+    <img src="/images/articles/locationtrack5.png" alt="Path tracking" />
 
     <p>You can also find the path tool on the left-hand side of your screen. To use this, you first will need to select a time range (green arrow). Data here will be recorded from when the device have been added to your Webkey account and the location information enabled. The position of the device will be shown on a map with a pin (blue arrow), coloured in green when the device is online, and red when it was offline. The accuracy and continuity of the data will be influenced by the settings (see above). There is a search field for you to search for the device that you would like to get information about.</p>
 

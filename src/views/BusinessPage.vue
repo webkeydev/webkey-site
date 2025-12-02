@@ -17,9 +17,9 @@
             </div>
           </div>
           <div class="hero-images">
-            <img src="https://www.webkeyapp.com/wp-content/uploads/2019/07/webkey-business-hero1.png" alt="Webkey Business Device" class="hero-image-left" />
-            <img src="https://www.webkeyapp.com/wp-content/uploads/2019/07/webkey-business-hero2.png" alt="Webkey Business Dashboard" class="hero-image-right" />
-            <img src="https://www.webkeyapp.com/wp-content/uploads/2019/07/webkey-business-hero-line-1.png" alt="Webkey Connection Line" class="hero-image-line" />
+            <img src="/images/business/webkey-business-hero1.png" alt="Webkey Business Device" class="hero-image-left" />
+            <img src="/images/business/webkey-business-hero2.png" alt="Webkey Business Dashboard" class="hero-image-right" />
+            <img src="/images/business/webkey-business-hero-line-1.png" alt="Webkey Connection Line" class="hero-image-line" />
           </div>
         </div>
       </div>
@@ -142,25 +142,25 @@
 
         <div class="case-studies-grid">
           <div class="case-study">
-            <img src="https://www.webkeyapp.com/wp-content/uploads/2019/09/unitech-300x105.png" alt="Unitech" class="case-study-logo" />
+            <img src="/images/business/unitech-300x105.png" alt="Unitech" class="case-study-logo" />
             <h3 class="case-study-company">Unitech, Taiwan</h3>
             <p class="case-study-description">Unitech is a Taiwanese barcode scanner manufacturer. For security reasons they were looking for a partner that integrates with their MDM solution. Webkey has provided Unitech with a server based remote access to their devices, that now runs on their local access network.</p>
           </div>
 
           <div class="case-study">
-            <img src="https://www.webkeyapp.com/wp-content/uploads/2019/09/activaire-1-300x105.png" alt="Activaire" class="case-study-logo" />
+            <img src="/images/business/activaire-1-300x105.png" alt="Activaire" class="case-study-logo" />
             <h3 class="case-study-company">Activaire, Brooklyn, New York</h3>
             <p class="case-study-description">With speakers all across the US in retail stores, they wanted to save time and energy on maintenance and IT management. Webkey has helped Activaire integrate their own solution for a centrally managed IT maintenance system.</p>
           </div>
 
           <div class="case-study">
-            <img src="https://www.webkeyapp.com/wp-content/uploads/2019/09/digimevo-logo-300x105.png" alt="Digimevo" class="case-study-logo" />
+            <img src="/images/business/digimevo-logo-300x105.png" alt="Digimevo" class="case-study-logo" />
             <h3 class="case-study-company">Digimevo, Spain</h3>
             <p class="case-study-description">Digimevo Spain displays educational content in medical facilities across Spain. They found it difficult to maintain all their devices in their fleet. Webkey has helped them to control the management and maintenance of their Android devices centrally.</p>
           </div>
 
           <div class="case-study">
-            <img src="https://www.webkeyapp.com/wp-content/uploads/2019/09/YorkSCHOOLlogo-300x105.png" alt="York School Board" class="case-study-logo" />
+            <img src="/images/business/YorkSCHOOLlogo-300x105.png" alt="York School Board" class="case-study-logo" />
             <h3 class="case-study-company">Board of York School, Canada</h3>
             <p class="case-study-description">The board leverages Webkey to centrally control their educational devices (tablets, interactive boards) in K-12 institutes.</p>
           </div>

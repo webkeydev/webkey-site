@@ -23,11 +23,11 @@
 
     <p>After clicking on the sandwich menu, you will see the following:</p>
 
-    <img src="https://www.webkeyapp.com/wp-content/uploads/2022/11/rename1.png" alt="Rename menu screenshot" style="max-width: 225px;" />
+    <img src="/images/articles/rename1.png" alt="Rename menu screenshot" style="max-width: 225px;" />
 
     <p>On the top of the next screen, you will see the default name of your device. Simply clicking on the edit, you will be able to rename your device.</p>
 
-    <img src="https://www.webkeyapp.com/wp-content/uploads/2022/11/rename2.png" alt="Edit interface screenshot" style="max-width: 512px;" />
+    <img src="/images/articles/rename2.png" alt="Edit interface screenshot" style="max-width: 512px;" />
   </ArticleTemplate>
 </template>
 
