@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "webey-5a01f"
+  },
+  "targets": {
+    "webey-5a01f": {
+      "hosting": {
+        "wk-wp-bkg": [
+          "wk-wp-bkg"
+        ]
+      }
+    }
+  }
+}
+
