@@ -9,8 +9,13 @@
     ],
     "redirects": [
       {
-        "source": "**",
+        "source": "/",
         "destination": "https://www.webkeyapp.com/",
+        "type": 301
+      },
+      {
+        "source": "/:path*",
+        "destination": "https://www.webkeyapp.com/:path*",
         "type": 301
       }
     ],
